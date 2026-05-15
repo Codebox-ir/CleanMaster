@@ -2,6 +2,8 @@
 
 A lightweight tool to clean junk files and improve Windows performance safely.
 
+[[Website](http://cleanmaster.codebox.ir)]
+
 ## 🚀 Overview
 
 CleanMaster is a fast, portable, and reliable utility designed to remove unnecessary files from Windows systems.  
@@ -32,7 +34,7 @@ Choose the version that matches your system:
 - **32‑bit**
 
 👉 Download from:  
-[Releases Page](https://github.com/)
+[[V 1.0.0](https://github.com/Codebox-ir/CleanMaster/releases/tag/1.0.0)]
 
 ## 🧠 Why CleanMaster?
 
